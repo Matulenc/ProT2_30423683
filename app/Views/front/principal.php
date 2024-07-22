@@ -11,7 +11,7 @@
              color: green;   
         }
     </style> <!--Inserto un estilo interno -->
-    <link rel="STYLESHEET" href="miestilo.css">
+    
      
   
   

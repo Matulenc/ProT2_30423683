@@ -3,22 +3,19 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>principal</title>
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-    <link  rel="stylesheet" href="assets/CSS/styles.css">
+    
+    <title><?php echo($titulo);?></title>
+
+
+    <link href="<?php echo base_url('assets/css/bootstrap.min.css');?>" rel="stylesheet">
+    <link href="<?php echo base_url('assets/CSS/styles.css');?>"        rel="stylesheet">
+    
     <style> 
         p {
              color: green;   
         }
     </style> <!--Inserto un estilo interno -->
-    <link rel="STYLESHEET" href="miestilo.css">
-     
-  
-  
-  </head>
-   
-  <header>
-    <h1>Bienvenido a nuestra pagina principal</h1>
+    
     <style> 
         body {
            background-color: #e3f2ed;
@@ -33,6 +30,14 @@
               }
 
      </style>
+    
+  </head>
+   
+  <header>
+  
+  
+    <h1>Bienvenido a nuestra pagina principal</h1>
+    
    <script src="assets/js/bootstrap.bundle.min.js"></script>
     
         <img src="assets/img/imagentalentos.jpg" alt="talentosdigitales"> 

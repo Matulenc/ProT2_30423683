@@ -10,7 +10,7 @@
     <div class="carousel-item">
       <img src="assets/img/imagen3.jpg" class="d-block w-100" alt="...">
     </div>
-    </div>
+</div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Previous</span>
@@ -23,14 +23,21 @@
       <!--fin del carrusel-->
  </div>
 
- <style>
-    nav ul li {
-    display: block; /* Para eliminar el espacio adicional que algunos navegadores agregan a las img. */
-    margin: 0 auto; /* Centrar las imágenes horizontalmente */
-    display: inline-block;
-    margin-right: 20px;
-   }
-  </style>
+ <style> 
+        body {
+           background-color: #e3f2ed;
+           color: #333;
+           font-family: Arial, sans-serif;
+           margin: 0;
+           padding: 0;
+    
+           text-align:center ;
+           font-weight:bold;
+           font-style: italic;
+              }
+
+     </style> 
+
 <section>
         <h2>Bienvenido!!! Aquí encontrás todos nuestros tipos de servicios y gran variedad de artículos informáticos. </h2>
         <img src="assets/img/imagen.jpg" alt="mi imagen">

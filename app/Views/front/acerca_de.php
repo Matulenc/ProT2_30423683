@@ -10,3 +10,17 @@
 <link href="assets/css/bootstrap.min.css" rel="stylesheet">
 <link  rel="stylesheet" href="assets/CSS/styles.css">
 </section>
+<style> 
+        body {
+           background-color: #e3f2ed;
+           color: #333;
+           font-family: Arial, sans-serif;
+           margin: 0;
+           padding: 0;
+    
+           text-align:center ;
+           font-weight:bold;
+           font-style: italic;
+              }
+
+     </style>

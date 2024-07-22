@@ -2,12 +2,21 @@
                                            
       
   <style>
-    nav ul li {
-    display: block; /* Para eliminar el espacio adicional que algunos navegadores agregan a las img. */
-    margin: 0 auto; /* Centrar las imágenes horizontalmente */
-    display: inline-block;
-    margin-right: 20px;
-   }
+      nav ul li {
+           background-color: #e3f2ed;
+           color: #333;
+           font-family: Arial, sans-serif;
+        
+     
+  
+           font-weight:bold;
+           font-style: italic;
+
+           display: block; /* Para eliminar el espacio adicional que algunos navegadores agregan a las img. */
+           margin:0;
+           display: inline-block;
+           margin-right: 20px;
+               }
   </style>
   <nav>
     <ul>
